@@ -1,0 +1,14 @@
+{
+    "name": "JSOSINT",
+    "main": "index.html",
+    "homepage": "https://github.com/krishpranav/jsosint",
+    "authors": [
+      "krishpranav"
+    ],
+    "description": "Advanced Reconnaissance Framework",
+    "license": "",
+    "dependencies": {
+      "d3": "3.5.16"
+    }
+  }
+  
